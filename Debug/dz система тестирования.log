@@ -1,0 +1,4 @@
+﻿  Functions.cpp
+C:\Users\newli\source\repos\dz система тестирования\Functions.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\newli\source\repos\dz система тестирования\Functions.cpp(30,20): warning C4018: '<': signed/unsigned mismatch
+  dz система тестирования.vcxproj -> C:\Users\newli\source\repos\dz система тестирования\Debug\dz система тестирования.exe
